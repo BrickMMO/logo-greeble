@@ -23,7 +23,7 @@ Greeble versions of all company logos involved with the BrickMMO project. Curren
 
 ## BrickMMO
 
-The BrickMMO branding is still in development. 
+The [BrickMMO Branding](https://github.com/BrickMMO/branding) is still in development. 
 
 ***
 
