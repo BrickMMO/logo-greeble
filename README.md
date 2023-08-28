@@ -27,6 +27,7 @@ The [BrickMMO Branding](https://github.com/BrickMMO/branding) is still in develo
 ## Repo Resources
 
 - [Brick MeCreator](https://app.brick.me/)
+- [BrickMMO Branding](https://github.com/BrickMMO/branding)
 
 <a href="https://brickmmo.com">
 <img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="300">
