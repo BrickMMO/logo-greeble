@@ -24,7 +24,7 @@ The [BrickMMO Branding](https://github.com/BrickMMO/branding) is still in develo
 
 ## Greeble
 
-Greeble is defined as "A small piece of detailing added to break up the surface of an object and add visual interest." LEGO greebling is a common technique used in the LEGO community:
+Greeble is defined as "small pieces of detailing added to break up the surface of an object and add visual interest" ~ Wikipedia. LEGO greebling is a common technique used in the LEGO community:
 
 ![LEGO Greeble](_readme/greeble.png)
 
