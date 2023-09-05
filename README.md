@@ -28,6 +28,21 @@ Greeble is defined as "small pieces of detailing added to break up the surface o
 
 ![LEGO Greeble](_readme/greeble.png)
 
+### Types of Greebling
+
+There are two types of greebling in BrickMMO projects:
+
+- Heavy Greebling: Greebling covers every stud. Greebling can be as high as three standards LEGO blocks, but should mostly be around one.
+- Light Geebling: Greebling overs most studs. Greebling should mostly be under one standard LEGO block. 
+
+### Rules for Greebling
+
+When working on BrickMMO projects and adding greebling to a project, follow these rules:
+
+1) A stud is covered when any part of a LEGO brick covers any part of a stud.
+2) Use as few pieces as possible to cover studs.
+3) If you want to add a complex piece to the greeble, use as few pieces as needed to add the piece. 
+
 ***
 
 ## Repo Resources
