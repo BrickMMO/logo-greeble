@@ -2,10 +2,6 @@
 
 Greeble versions of all company logos involved with the BrickMMO project. Currently this includes BrickMMO, Humber, BrevisRefero, and LEGO® logos. Logos will be build using four [standard LEGO baseplates](https://www.lego.com/en-ca/product/gray-baseplate-11024). Final size will be 96 x 96 studes.
 
-## LEGO
-
-<img src="_readme/logo-lego.png" width="250"> <img src="_readme/logo-bricks-lego.png" width="250">
-
 ## BrevisRefero
 
 <img src="_readme/logo-brevisrefero.png" width="250"> <img src="_readme/logo-bricks-brevisrefero.png" width="250">
@@ -21,6 +17,10 @@ Greeble versions of all company logos involved with the BrickMMO project. Curren
 ## BrickMMO
 
 The [BrickMMO Branding](https://github.com/BrickMMO/branding) is still in development.
+
+## LEGO®
+
+We have constructed a LEGO® logo using LEGO® bricks, buty cannot display the results online due to the [LEGO® Fair Play Policy](https://www.lego.com/en-ca/legal/notices-and-policies/fair-play/?locale=en-ca).
 
 ## Greeble
 
