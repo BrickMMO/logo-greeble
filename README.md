@@ -20,7 +20,9 @@ Greeble versions of all company logos involved with the BrickMMO project. Curren
 
 ## BrickMMO
 
-The [BrickMMO Branding](https://github.com/BrickMMO/branding) is still in development. 
+<img src="_readme/logo-brickmmo.png" with="300">
+
+<img src="_readme/logo-bricks-brickmmo.png" width="300">
 
 ## Greeble
 
