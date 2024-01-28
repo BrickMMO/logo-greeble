@@ -16,9 +16,7 @@ Greeble versions of all company logos involved with the BrickMMO project. Curren
 
 ## BrickMMO
 
-<img src="_readme/logo-brickmmo.png" width="300">
-
-<img src="_readme/logo-bricks-brickmmo.png" width="300">
+<img src="_readme/logo-brickmmo.png" width="250"> <img src="_readme/logo-bricks-brickmmo.png" width="250">
 
 ## LEGO®
 
