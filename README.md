@@ -4,15 +4,23 @@ Greeble versions of all company logos involved with the BrickMMO project. Curren
 
 ## BrevisRefero
 
-<img src="_readme/logo-brevisrefero.png" width="250"> <img src="_readme/logo-bricks-brevisrefero.png" width="250">
+<img src="_readme/logo-brevisrefero.png" width="250"> <img src="_readme/logo-brevisrefero-pixelated.png" width="250">
 
 ## Humber
 
-<img src="_readme/logo-humber.png" width="250"> <img src="_readme/logo-bricks-humber.png" width="250"> <img src="_readme/logo-lego-humber.png" width="250">
+<img src="_readme/logo-humber.png" width="250"> <img src="_readme/logo-humber-pixelated.png" width="250"> <img src="_readme/logo-humber-lego.png" width="250">
 
 ## BrickMMO
 
-<img src="_readme/logo-brickmmo.png" width="250"> <img src="_readme/logo-bricks-brickmmo.png" width="250">
+<img src="_readme/logo-brickmmo.png" width="250"> <img src="_readme/logo-brickmmo-pixelated.png" width="250">
+
+## Polytainers
+
+<img src="_readme/logo-polytainers.png" width="250"> <img src="_readme/logo-polytainers-pixelated.png" width="250">
+
+## Republic of Gamers
+
+<img src="_readme/logo-rog.png" width="250"> <img src="_readme/logo-rog-pixelated.png" width="250">
 
 ## LEGO®
 
