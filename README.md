@@ -22,6 +22,10 @@ Greeble versions of all company logos involved with the BrickMMO project. Curren
 
 <img src="_readme/logo-rog.png" width="250"> <img src="_readme/logo-rog-pixelated.png" width="250">
 
+## LEGO CDMO Project Sponsors
+
+<img src="_readme/logo-lego-cdmo-sponsors.png" wisth="624">
+
 ## LEGO®
 
 We have constructed a LEGO® logo using LEGO® bricks, buty cannot display the results online due to the [LEGO® Fair Play Policy](https://www.lego.com/en-ca/legal/notices-and-policies/fair-play/?locale=en-ca).
