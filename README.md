@@ -22,6 +22,10 @@ Greeble versions of all company logos involved with the BrickMMO project. Curren
 
 <img src="_readme/logo-rog.png" width="250"> <img src="_readme/logo-rog-pixelated.png" width="250">
 
+## Fieldgate
+
+<img src="_readme/logo-fieldgate.png" width="250"> <img src="_readme/logo-fieldgate-pixelated.png" width="250">
+
 ## LEGO CDMO Project Sponsors
 
 <img src="_readme/logo-lego-cdmo-sponsors.png" wisth="624">
