@@ -4,7 +4,7 @@ Greeble versions of all company logos involved with the BrickMMO project. Curren
 
 ## BrevisRefero
 
-<img src="_readme/logo-brevisrefero.png" width="250"> <img src="_readme/logo-brevisrefero-pixelated.png" width="250">
+<img src="_readme/logo-brevisrefero.png" width="250"> <img src="_readme/logo-brevisrefero-pixelated.png" width="250"> <img src="_readme/logo-brevisrefero-lego.png" width="250">
 
 ## Humber
 
